@@ -1,1 +1,1 @@
-# viking-quest
+# Viking Quest
